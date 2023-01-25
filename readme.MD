@@ -9,4 +9,4 @@
 - HW3 Curve fitting to Crop Phenologies
 - HW4 Fitting Polynomial Curves
 - HW5 Implement forward feature selection by using python
-
+- Project Generate land cover maps for unseen data by using a limited number of training samples(Gibraltar is selected as a study area as there are wide variety of land cover types.)
